@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings":[
+    {"name":"objetos","order":1,"path":"folders/objetos.yy",},
+    {"name":"sprites","order":2,"path":"folders/sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Obj_button","order":2,"path":"objects/Obj_button/Obj_button.yy",},
+    {"name":"Obj_checkbox","order":3,"path":"objects/Obj_checkbox/Obj_checkbox.yy",},
+    {"name":"obj_game","order":1,"path":"objects/obj_game/obj_game.yy",},
+    {"name":"pr_box_check","order":3,"path":"sprites/pr_box_check/pr_box_check.yy",},
+    {"name":"Spr_box","order":2,"path":"sprites/Spr_box/Spr_box.yy",},
+    {"name":"Spr_button","order":1,"path":"sprites/Spr_button/Spr_button.yy",},
+  ],
+}

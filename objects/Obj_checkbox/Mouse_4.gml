@@ -1,0 +1,1 @@
+auto_buy = !auto_buy; 
