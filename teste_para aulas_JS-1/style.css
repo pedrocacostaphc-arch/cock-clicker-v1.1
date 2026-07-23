@@ -1,0 +1,37 @@
+body{
+    background-color: antiquewhite;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.button{
+border-radius: 15px;
+    box-shadow: 5px 10px 6px rgba(0, 0, 0, 0.2);
+    padding: 10px 20px;
+    background-color: azure;
+    font-size: 20px;
+    
+    /* Centraliza o botão perfeitamente abaixo do número */
+    display: block;
+    margin: 30px auto 0 auto; 
+    cursor: pointer;
+    border: 1px solid #ccc;
+}
+#texto{
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding-top: 15vh; /* Joga o número para a parte de cima do centro */
+    height: 70px;
+}
+
+.b1, .b2, .b3, button:not(.button){
+    background-color: azure;
+    border-radius: 7px;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+}
+
